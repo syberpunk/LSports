@@ -1,0 +1,16 @@
+<div class="app-container">
+  <header>Books Library</header>
+  <div class="content">
+    <div class="add">
+      <button class="btn-primary" (click)="addBook()" [disabled]="editable" [ngClass]="{'disabled': editable}">Add Book</button>
+    </div>
+    <div class="show">
+      <aside [ngClass]="{'disabled': editable}">
+        <books-list (onSelect)="onSelect($event)" (onEdit)="editBook($event)" [editedBook]="editedBook"></books-list>
+      </aside>
+      <section>
+        <book-details [selectedBook]="selectedBook" [editable]="editable" (onEdit)="onEdit($event)" *ngIf="selectedBook"></book-details>
+      </section>
+    </div>
+  </div>
+</div>

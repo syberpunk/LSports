@@ -1,0 +1,380 @@
+{
+  "books": [
+    {
+      "isbn": 439023483,
+      "authors": "Suzanne Collins",
+      "pubdate": "09/16/2006",
+      "title": "The Hunger Games (The Hunger Games, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1447303603m/2767052.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1447303603s/2767052.jpg"
+    },
+    {
+      "isbn": 439554934,
+      "authors": "J.K. Rowling, Mary GrandPré",
+      "pubdate": "09/01/2004",
+      "title": "Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1474154022m/3.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1474154022s/3.jpg"
+    },
+    {
+      "isbn": 316015849,
+      "authors": "Stephenie Meyer",
+      "pubdate": "11/01/2003",
+      "title": "Twilight (Twilight, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1361039443m/41865.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1361039443s/41865.jpg"
+    },
+    {
+      "isbn": 61120081,
+      "authors": "Harper Lee",
+      "pubdate": "05/01/2004",
+      "title": "To Kill a Mockingbird",
+      "imageUrl": "https://images.gr-assets.com/books/1361975680m/2657.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1361975680s/2657.jpg"
+    },
+    {
+      "isbn": 743273567,
+      "authors": "F. Scott Fitzgerald",
+      "pubdate": "09/13/2004",
+      "title": "The Great Gatsby",
+      "imageUrl": "https://images.gr-assets.com/books/1490528560m/4671.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1490528560s/4671.jpg"
+    },
+    {
+      "isbn": 525478817,
+      "authors": "John Green",
+      "pubdate": "04/26/2005",
+      "title": "The Fault in Our Stars",
+      "imageUrl": "https://images.gr-assets.com/books/1360206420m/11870085.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1360206420s/11870085.jpg"
+    },
+    {
+      "isbn": 618260307,
+      "authors": "J.R.R. Tolkien",
+      "pubdate": "09/12/2005",
+      "title": "The Hobbit",
+      "imageUrl": "https://images.gr-assets.com/books/1372847500m/5907.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1372847500s/5907.jpg"
+    },
+    {
+      "isbn": 316769177,
+      "authors": "J.D. Salinger",
+      "pubdate": "11/01/2005",
+      "title": "The Catcher in the Rye",
+      "imageUrl": "https://images.gr-assets.com/books/1398034300m/5107.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1398034300s/5107.jpg"
+    },
+    {
+      "isbn": 1416524797,
+      "authors": "Dan Brown",
+      "pubdate": "04/30/2002",
+      "title": "Angels & Demons  (Robert Langdon, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1303390735m/960.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1303390735s/960.jpg"
+    },
+    {
+      "isbn": 679783261,
+      "authors": "Jane Austen",
+      "pubdate": "08/03/2004",
+      "title": "Pride and Prejudice",
+      "imageUrl": "https://images.gr-assets.com/books/1320399351m/1885.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1320399351s/1885.jpg"
+    },
+    {
+      "isbn": 1594480001,
+      "authors": "Khaled Hosseini",
+      "pubdate": "03/23/2005",
+      "title": "The Kite Runner",
+      "imageUrl": "https://images.gr-assets.com/books/1484565687m/77203.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1484565687s/77203.jpg"
+    },
+    {
+      "isbn": 62024035,
+      "authors": "Veronica Roth",
+      "pubdate": "01/17/1996",
+      "title": "Divergent (Divergent, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1328559506m/13335037.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1328559506s/13335037.jpg"
+    },
+    {
+      "isbn": 451524934,
+      "authors": "George Orwell, Erich Fromm, Celâl Üster",
+      "pubdate": "09/14/2004",
+      "title": 1984,
+      "imageUrl": "https://images.gr-assets.com/books/1348990566m/5470.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1348990566s/5470.jpg"
+    },
+    {
+      "isbn": 452284244,
+      "authors": "George Orwell",
+      "pubdate": "12/03/2002",
+      "title": "Animal Farm",
+      "imageUrl": "https://images.gr-assets.com/books/1424037542m/7613.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1424037542s/7613.jpg"
+    },
+    {
+      "isbn": 553296981,
+      "authors": "Anne Frank, Eleanor Roosevelt, B.M. Mooyaart-Doubleday",
+      "pubdate": "09/14/2004",
+      "title": "The Diary of a Young Girl",
+      "imageUrl": "https://images.gr-assets.com/books/1358276407m/48855.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1358276407s/48855.jpg"
+    },
+    {
+      "isbn": 307269752,
+      "authors": "Stieg Larsson, Reg Keeland",
+      "pubdate": "05/15/2001",
+      "title": "The Girl with the Dragon Tattoo (Millennium, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1327868566m/2429135.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1327868566s/2429135.jpg"
+    },
+    {
+      "isbn": 439023491,
+      "authors": "Suzanne Collins",
+      "pubdate": "06/28/2000",
+      "title": "Catching Fire (The Hunger Games, #2)",
+      "imageUrl": "https://images.gr-assets.com/books/1358273780m/6148028.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1358273780s/6148028.jpg"
+    },
+    {
+      "isbn": "043965548X",
+      "authors": "J.K. Rowling, Mary GrandPré, Rufus Beck",
+      "pubdate": "08/28/1990",
+      "title": "Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",
+      "imageUrl": "https://images.gr-assets.com/books/1499277281m/5.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1499277281s/5.jpg"
+    },
+    {
+      "isbn": 618346252,
+      "authors": "J.R.R. Tolkien",
+      "pubdate": "03/28/1993",
+      "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1298411339m/34.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1298411339s/34.jpg"
+    },
+    {
+      "isbn": 439023513,
+      "authors": "Suzanne Collins",
+      "pubdate": "05/28/1997",
+      "title": "Mockingjay (The Hunger Games, #3)",
+      "imageUrl": "https://images.gr-assets.com/books/1358275419m/7260188.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1358275419s/7260188.jpg"
+    },
+    {
+      "isbn": 439358078,
+      "authors": "J.K. Rowling, Mary GrandPré",
+      "pubdate": "09/28/1991",
+      "title": "Harry Potter and the Order of the Phoenix (Harry Potter, #5)",
+      "imageUrl": "https://images.gr-assets.com/books/1387141547m/2.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1387141547s/2.jpg"
+    },
+    {
+      "isbn": 316166685,
+      "authors": "Alice Sebold",
+      "pubdate": "09/25/2012",
+      "title": "The Lovely Bones",
+      "imageUrl": "https://images.gr-assets.com/books/1457810586m/12232938.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1457810586s/12232938.jpg"
+    },
+    {
+      "isbn": 439064864,
+      "authors": "J.K. Rowling, Mary GrandPré",
+      "pubdate": "10/21/2004",
+      "title": "Harry Potter and the Chamber of Secrets (Harry Potter, #2)",
+      "imageUrl": "https://images.gr-assets.com/books/1474169725m/15881.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1474169725s/15881.jpg"
+    },
+    {
+      "isbn": 439139600,
+      "authors": "J.K. Rowling, Mary GrandPré",
+      "pubdate": "09/05/2003",
+      "title": "Harry Potter and the Goblet of Fire (Harry Potter, #4)",
+      "imageUrl": "https://images.gr-assets.com/books/1361482611m/6.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1361482611s/6.jpg"
+    },
+    {
+      "isbn": 545010225,
+      "authors": "J.K. Rowling, Mary GrandPré",
+      "pubdate": "10/01/2002",
+      "title": "Harry Potter and the Deathly Hallows (Harry Potter, #7)",
+      "imageUrl": "https://images.gr-assets.com/books/1474171184m/136251.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1474171184s/136251.jpg"
+    },
+    {
+      "isbn": 307277674,
+      "authors": "Dan Brown",
+      "pubdate": "11/05/2003",
+      "title": "The Da Vinci Code (Robert Langdon, #2)",
+      "imageUrl": "https://images.gr-assets.com/books/1303252999m/968.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1303252999s/968.jpg"
+    },
+    {
+      "isbn": 439785960,
+      "authors": "J.K. Rowling, Mary GrandPré",
+      "pubdate": "11/15/2004",
+      "title": "Harry Potter and the Half-Blood Prince (Harry Potter, #6)",
+      "imageUrl": "https://images.gr-assets.com/books/1361039191m/1.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1361039191s/1.jpg"
+    },
+    {
+      "isbn": 140283331,
+      "authors": "William Golding",
+      "pubdate": "07/28/2005",
+      "title": "Lord of the Flies",
+      "imageUrl": "https://images.gr-assets.com/books/1327869409m/7624.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1327869409s/7624.jpg"
+    },
+    {
+      "isbn": 743477111,
+      "authors": "William Shakespeare, Robert           Jackson",
+      "pubdate": "04/01/2000",
+      "title": "Romeo and Juliet",
+      "imageUrl": "https://images.gr-assets.com/books/1327872146m/18135.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1327872146s/18135.jpg"
+    },
+    {
+      "isbn": 297859382,
+      "authors": "Gillian Flynn",
+      "pubdate": "08/28/1994",
+      "title": "Gone Girl",
+      "imageUrl": "https://images.gr-assets.com/books/1339602131m/8442457.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1339602131s/8442457.jpg"
+    },
+    {
+      "isbn": 399155341,
+      "authors": "Kathryn Stockett",
+      "pubdate": "01/23/2001",
+      "title": "The Help",
+      "imageUrl": "https://images.gr-assets.com/books/1346100365m/4667024.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1346100365s/4667024.jpg"
+    },
+    {
+      "isbn": 142000671,
+      "authors": "John Steinbeck",
+      "pubdate": "06/10/2003",
+      "title": "Of Mice and Men",
+      "imageUrl": "https://images.gr-assets.com/books/1437235233m/890.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1437235233s/890.jpg"
+    },
+    {
+      "isbn": 739326228,
+      "authors": "Arthur Golden",
+      "pubdate": "11/01/2005",
+      "title": "Memoirs of a Geisha",
+      "imageUrl": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "thumbnailUrl": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+    },
+    {
+      "isbn": 1612130291,
+      "authors": "E.L. James",
+      "pubdate": "11/01/2005",
+      "title": "Fifty Shades of Grey (Fifty Shades, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1385207843m/10818853.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1385207843s/10818853.jpg"
+    },
+    {
+      "isbn": 61122416,
+      "authors": "Paulo Coelho, Alan R. Clarke",
+      "pubdate": "08/17/2006",
+      "title": "The Alchemist",
+      "imageUrl": "https://images.gr-assets.com/books/1483412266m/865.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1483412266s/865.jpg"
+    },
+    {
+      "isbn": 385732554,
+      "authors": "Lois Lowry",
+      "pubdate": "04/14/2003",
+      "title": "The Giver (The Giver, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1342493368m/3636.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1342493368s/3636.jpg"
+    },
+    {
+      "isbn": 60764899,
+      "authors": "C.S. Lewis",
+      "pubdate": "06/08/2004",
+      "title": "The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1353029077m/100915.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1353029077s/100915.jpg"
+    },
+    {
+      "isbn": 965818675,
+      "authors": "Audrey Niffenegger",
+      "pubdate": "04/12/2005",
+      "title": "The Time Traveler's Wife",
+      "imageUrl": "https://images.gr-assets.com/books/1437728815m/14050.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1437728815s/14050.jpg"
+    },
+    {
+      "isbn": 553588486,
+      "authors": "George R.R. Martin",
+      "pubdate": "08/28/1990",
+      "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1436732693m/13496.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1436732693s/13496.jpg"
+    },
+    {
+      "isbn": 143038419,
+      "authors": "Elizabeth Gilbert",
+      "pubdate": "08/29/2006",
+      "title": "Eat, Pray, Love",
+      "imageUrl": "https://images.gr-assets.com/books/1503066414m/19501.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1503066414s/19501.jpg"
+    },
+    {
+      "isbn": 786838655,
+      "authors": "Rick Riordan",
+      "pubdate": "06/15/2004",
+      "title": "The Lightning Thief (Percy Jackson and the Olympians, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1400602609m/28187.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1400602609s/28187.jpg"
+    },
+    {
+      "isbn": 451529308,
+      "authors": "Louisa May Alcott",
+      "pubdate": "06/15/2004",
+      "title": "Little Women (Little Women, #1)",
+      "imageUrl": "https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png",
+      "thumbnailUrl": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png"
+    },
+    {
+      "isbn": 142437204,
+      "authors": "Charlotte Brontë, Michael Mason",
+      "pubdate": "05/15/2006",
+      "title": "Jane Eyre",
+      "imageUrl": "https://images.gr-assets.com/books/1327867269m/10210.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1327867269s/10210.jpg"
+    },
+    {
+      "isbn": 553816713,
+      "authors": "Nicholas Sparks",
+      "pubdate": "12/14/2005",
+      "title": "The Notebook (The Notebook, #1)",
+      "imageUrl": "https://images.gr-assets.com/books/1385738917m/15931.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1385738917s/15931.jpg"
+    },
+    {
+      "isbn": 770430074,
+      "authors": "Yann Martel",
+      "pubdate": "06/01/1982",
+      "title": "Life of Pi",
+      "imageUrl": "https://images.gr-assets.com/books/1320562005m/4214.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1320562005s/4214.jpg"
+    },
+    {
+      "isbn": 1565125606,
+      "authors": "Sara Gruen",
+      "pubdate": "05/16/2006",
+      "title": "Water for Elephants",
+      "imageUrl": "https://images.gr-assets.com/books/1494428973m/43641.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1494428973s/43641.jpg"
+    },
+    {
+      "isbn": 375831002,
+      "authors": "Markus Zusak",
+      "pubdate": "04/01/1986",
+      "title": "The Book Thief",
+      "imageUrl": "https://images.gr-assets.com/books/1390053681m/19063.jpg",
+      "thumbnailUrl": "https://images.gr-assets.com/books/1390053681s/19063.jpg"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+<div class="details-wrapper">
+  <div class="details">
+    <img src="{{ editedBook.imageUrl }}" />
+
+    <form (submit)="confirmEdit()">
+      <ul class="list-group" [ngClass]="{'static': !editable}">
+        <li class="list-group-item"><label>Name:</label><input type="text" name="title" [(ngModel)]="editedBook.title" required /></li>
+        <li class="list-group-item"><label>Authors:</label><input type="text" name="authors" [(ngModel)]="editedBook.authors" required /></li>
+        <li class="list-group-item"><label>ISBN:</label><input type="text" name="isbn" [(ngModel)]="editedBook.isbn" required /></li>
+        <li class="list-group-item"><label>Publish Date:</label><input type="text" name="pubdate" [(ngModel)]="editedBook.pubdate" required /></li>
+        <li class="list-group-item"><label>Cover URL:</label><input type="text" name="imageUrl" [(ngModel)]="editedBook.imageUrl" required /></li>
+      </ul>
+      <div class="controls" *ngIf="editable">
+        <button class="btn-danger" (click)="cancelEdit()">Cancel</button>
+        <button type="submit" class="btn-primary">OK</button>
+      </div>
+    </form>
+  </div>
+</div>

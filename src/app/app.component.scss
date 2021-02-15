@@ -1,0 +1,39 @@
+.app-container {
+  header {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding-left: 40px;
+    margin-bottom: 20px;
+    background-color: #333333;
+    color: #ffffff;
+    font-size: larger;
+    font-weight: bolder;
+  }
+
+  .content {
+    display: flex;
+    padding: 0 20px;
+
+    .add {
+      margin-top: 10px;
+      margin-left: 20px;
+      max-height: 30px;
+
+      button {
+        width: 100%;
+      }
+    }
+
+    .show {
+      position: absolute;
+      display: flex;
+      margin-top: 45px;
+    }
+
+    .disabled {
+      z-index: -1;
+      opacity: 0.35;
+    }
+  }
+}

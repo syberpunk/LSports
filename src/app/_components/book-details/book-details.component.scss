@@ -1,0 +1,42 @@
+.details-wrapper {
+  .details {
+    display: flex;
+    padding: 10px 20px;
+
+    img {
+      height: 100%;
+    }
+  }
+
+  .controls {
+    button {
+      margin-left: 20px;
+    }
+  }
+
+  li {
+    display: flex;
+    align-items: center;
+    width: 37vw !important;
+    height: 50px !important;
+
+    label {
+      margin: 0;
+      width: 30%;
+      font-weight: bold;
+    }
+
+    input {
+      width: 100% !important;
+      margin-left: 30px !important;
+    }
+  }
+
+  .static {
+    input {
+      background: transparent !important;
+      border: none !important;
+      pointer-events: none !important;
+    }
+  }
+}

@@ -1,0 +1,18 @@
+<div class="list-wrapper">
+  <div class="search">
+    <input type="text" placeholder="search book" [(ngModel)]="searchedText" />
+    <i class="bi bi-search"></i>
+  </div>
+  <virtual-scroller #scroll [items]="books">
+    <ul class="list-group">
+    <li *ngFor="let item of scroll.viewPortItems | filter: searchedText" class="book list-group-item"
+    [ngClass]="{'active': item?.title == selectedBook?.title}">
+      <div class="title" (click)="select(item)">{{ item.title }} / {{ item.authors }}</div>
+      <div class="controls">
+        <i class="bi bi-x" (click)="remove(item)"></i>
+        <i class="bi bi-pencil" (click)="edit(item)"></i>
+      </div>
+    </li>
+  </ul>
+  </virtual-scroller>
+</div>
